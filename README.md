@@ -12,6 +12,8 @@ We take a pre-trained BERT model(distilbert-base-nli-stsb-mean-tokens) from [Sen
 - [Amazon SageMaker](https://aws.amazon.com/sagemaker/)
 - [AWS Lambda](https://aws.amazon.com/lambda/)
 - [Amazon Elasticsearch Service-version 7.7](https://aws.amazon.com/elasticsearch-service/)
+- [AWS Cloudformation](https://aws.amazon.com/cloudformation/)
+- [AWS S3](https://aws.amazon.com/s3/)
 - [PyTorch](https://pytorch.org/get-started/locally/)
 - [Python-Python 3.6 or higher](https://www.python.org/)
 
